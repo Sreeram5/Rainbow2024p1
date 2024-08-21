@@ -8,4 +8,4 @@ Green
 Blue
 Violet
 Indigo
-Monkey do monkey see
+Monkey
