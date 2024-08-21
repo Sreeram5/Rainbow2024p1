@@ -1,6 +1,6 @@
 # Rainbow2024p1
 Learn what a repository is all about
-This is a poem about Rainbows and kobe bryant
+This is a poem about Rainbows and kobe Bryant and michael
 Red
 Orange
 Yellow
